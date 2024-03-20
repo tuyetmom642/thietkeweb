@@ -1,0 +1,29 @@
+.container {
+    width: 80%;
+    font-family: sans-serif;
+    margin: 0 auto;
+    background-color: #FF9A8C;
+    border-radius: 5px;
+    height: 350px;
+}
+.container h1{
+    margin-left: 10px;
+    margin-top:15px;
+}
+.container_imer{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.block{
+    width:22%;
+    background-color: white;
+    border-radius: 5px;
+    height: 270px;
+}
+.block img{
+    width:100%;
+}
+.block a{
+    text-decoration: none;
+}
