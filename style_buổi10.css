@@ -1,0 +1,50 @@
+/* mouse over link */
+   a:hover {
+    color: aquamarine;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
+  a:link {
+text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+.all {
+    width: 1400px;
+    margin: auto;
+}
+.container {
+    float: left;
+    width: 800px;
+    padding: 5px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.containerimg {
+  width: 800px;
+  border-radius: 10px;
+
+}
+.container1 {
+    float: right;
+    width: 550px;
+    padding: 5px;
+    font-size: 12px;
+  }
+  .div1 {
+    float: left;
+    padding: 10px;
+    border-radius: 20px;
+    width: 90px;
+    height: 90px;
+  }
+  .div2 {
+    float: left;
+    padding: 1px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
