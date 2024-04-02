@@ -1,0 +1,37 @@
+div {
+              width: 700px;
+              margin: auto;
+              color:#f0eaea;
+              background-color: #eee9e9;
+              }
+h2{ 
+    font-family: roboto, Arial, sans-serif;
+      text-align: center;
+}
+body {
+    line-height: 18px;
+    font-family: roboto, Arial, sans-serif;
+    background-color: #f8f8f8;
+    overflow-x: hidden;
+    font-size: 15px;
+        text-align: left; 
+}
+.doan1{
+    font-family: roboto, Arial, sans-serif;
+    font-size: 15px;
+    color:rgb(6, 6, 6);
+}
+#tomtat{
+    color:rgb(9, 9, 9);
+    font-family:roboto, Arial, Narrow Bold;
+}
+.doan2{
+    font-family: roboto, Arial, sans-serif;
+    font-size: 12px;
+    color:rgb(0, 0, 0);
+    background-color: #eee9e9;
+    text-align: center; 
+}
+img{
+    width: 100%;
+}
