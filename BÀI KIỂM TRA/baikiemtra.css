@@ -7,7 +7,7 @@
     width: 999px;
     height: 500px;
     margin: auto;
-    background: #ff151516;
+    background: #52daba16;
     border-radius: 20px;
 }
 .dau{
@@ -33,7 +33,7 @@
     text-decoration: none; 
     padding: 0 0;
     text-align: center;
-    color: #950303;
+    color: hsl(50, 94%, 40%);
 }
 .dau ul.lu{
     list-style: none;
@@ -58,7 +58,7 @@
     text-decoration: none; 
     padding: 17px 21px;
     text-align: center;
-    color: #800000;
+    color: #4c017b;
 }
 .dau  ul.lu li:last-child{
     border-right:none ;
