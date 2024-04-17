@@ -76,7 +76,7 @@
     color: #ff0000; 
 }
 .dau ul li a.active{
-    font-family: "Pacifico", cursive;
+    
     font-weight: 400;
     font-style: normal;
 }
@@ -98,7 +98,7 @@ hr{
     font-family: Arial;
 }
 .giua .ing1 p.pi{
-    font-family: "Saira Stencil One", sans-serif;
+    
     font-weight: 400;
     font-style: normal;
 }
@@ -122,7 +122,7 @@ hr{
     
 }
 .giua .ing1 p.pa{
-    font-family: "Saira Stencil One", sans-serif;
+   
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
